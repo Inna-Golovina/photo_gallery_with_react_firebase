@@ -1,1 +1,1 @@
-# photo_gallery_with_react_firebase
+Photo Gallery with React.js and Firebase
