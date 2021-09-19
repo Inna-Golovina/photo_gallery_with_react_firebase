@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+/* import { useState, useEffect } from 'react';
 import { projectStorage, projectFirestore, timestamp } from '../firebase/config';
 
 const useStorage = (file) => {
@@ -27,4 +27,12 @@ const useStorage = (file) => {
   return { progress, url, error };
 }
 
-export default useStorage;
+export default useStorage; */
+
+import { useState, useEffect } from 'react';
+import { projectStorage, projectFirestore, timestamp } from '../firebase/config';
+
+const useStorage = (file) => {
+  const [progress, setProgress] = useState(0);
+  const [] = useState(null);
+}
