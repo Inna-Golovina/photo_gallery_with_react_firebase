@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photo_gallery_with_react_firebase/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/photo_gallery_with_react_firebase/static/js/main.c63a0d99.chunk.js",
+    "main.js.map": "/photo_gallery_with_react_firebase/static/js/main.c63a0d99.chunk.js.map",
+    "runtime-main.js": "/photo_gallery_with_react_firebase/static/js/runtime-main.0e74318c.js",
+    "runtime-main.js.map": "/photo_gallery_with_react_firebase/static/js/runtime-main.0e74318c.js.map",
+    "static/js/2.64e8b72e.chunk.js": "/photo_gallery_with_react_firebase/static/js/2.64e8b72e.chunk.js",
+    "static/js/2.64e8b72e.chunk.js.map": "/photo_gallery_with_react_firebase/static/js/2.64e8b72e.chunk.js.map",
+    "index.html": "/photo_gallery_with_react_firebase/index.html",
+    "precache-manifest.c073032e4579c59a951db0c3b0787be5.js": "/photo_gallery_with_react_firebase/precache-manifest.c073032e4579c59a951db0c3b0787be5.js",
+    "service-worker.js": "/photo_gallery_with_react_firebase/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/photo_gallery_with_react_firebase/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.64e8b72e.chunk.js.LICENSE.txt": "/photo_gallery_with_react_firebase/static/js/2.64e8b72e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e74318c.js",
+    "static/js/2.64e8b72e.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.c63a0d99.chunk.js"
+  ]
+}
